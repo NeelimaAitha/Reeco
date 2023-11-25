@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.class {
+  width: 75px, rounded;
+  color: white;
+  border: shadow p-4;
+}
+.sub-class {
+  display: flex;
+  justify-content: end;
+}
+.button {
+  background-color: green;
+}
